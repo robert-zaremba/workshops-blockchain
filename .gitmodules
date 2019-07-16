@@ -1,3 +1,6 @@
 [submodule "2019-03 ico-duch-auction"]
 	path = 2019-03 ico-duch-auction
 	url = ./2019-03 ico-duch-auction
+[submodule "thrivelabs-contracts"]
+	path = thrivelabs-contracts
+	url = ./thrivelabs-contracts
