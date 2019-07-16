@@ -1,0 +1,10 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Robert Zaremba",
+  "license": "MIT",
+  "dependencies": {
+    "stellar-sdk": "^0.8.0"
+  }
+}
