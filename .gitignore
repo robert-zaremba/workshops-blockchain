@@ -1,3 +1,32 @@
+## private
+private
+
+
+## editors
+
+.settings
+.project
+.gradle
+
+.dir-locals.el
+.idea
+*.iml
+.DS_Store
+# Emacs backup files
+*~
+*#
+.#*
+# Vim file artifacts
+.*.sw*
+# vscode settings
+.vscode
+*.code-workspace
+.lock
+
+## dependencies
+/vendor
+
+
 # Logs
 logs
 *.log
