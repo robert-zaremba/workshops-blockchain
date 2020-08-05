@@ -5,6 +5,6 @@
   "author": "Robert Zaremba",
   "license": "MIT",
   "dependencies": {
-    "stellar-sdk": "^3.3.0"
+    "stellar-sdk": "^5.0.4"
   }
 }
